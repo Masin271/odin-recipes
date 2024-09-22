@@ -1,0 +1,31 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    background-color: yellow;
+}
+
+ul {
+    list-style-type: none;
+    background-color: aqua;
+    padding: 10px;
+    margin: auto 10em;
+}
+
+li {
+    background-color: aquamarine;
+    text-align: center;
+    border-color: aqua;
+    font-size: larger;
+}
+
+.crisp {
+    margin: 10px auto;
+}
+
